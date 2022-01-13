@@ -1,0 +1,17 @@
+.navbar{
+    background-color: lightgreen;
+}
+.boxes{
+    background-color: lightgrey;
+}
+.padding{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.rounded-circle{
+    border: 1px solid black;
+}
+p{
+    margin: none;
+}
